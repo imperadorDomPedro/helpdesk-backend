@@ -9,9 +9,9 @@
 		<version>2.3.12.RELEASE</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.valdir</groupId>
+	<groupId>com.hmsolutions</groupId>
 	<artifactId>helpdesk</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.0-SNAPSHOT</version>
 	<name>helpdesk</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
