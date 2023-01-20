@@ -11,11 +11,11 @@ import com.valdir.helpdesk.services.DBService;
 @Profile("test")
 public class TestConfig {
 
-	@Autowired
-	private DBService dbService;
-	
-	@Bean
-	public void instanciaDB() {
-		this.dbService.instanciaDB();
-	}
+  @Autowired
+  private DBService dbService;
+
+  @Bean
+  public void instanciaDB() {
+    this.dbService.instanciaDB();
+  }
 }
